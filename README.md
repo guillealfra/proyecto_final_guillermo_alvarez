@@ -5,7 +5,7 @@ Este repositorio contiene la documentación y el código fuente del TFG.
 ## Contenido
 
 ```
-Gekkins.pdf
+documentacion_guillermo_alvarez.pdf
 source_Gekkins.zip
 ├── gekkins-front/
 ├── gekkins-back/
