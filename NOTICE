@@ -1,0 +1,14 @@
+GEKKINS — Notice of Intellectual Property
+
+Copyright (C) 2025 Guillermo Álvarez Franganillo. All rights reserved.
+
+The following elements are NOT covered by the GPL-3.0 license
+and may not be used, copied, modified, or distributed without
+explicit written permission from the author:
+
+  - The name "GEKKINS" and any associated branding
+  - The GEKKINS logo and all visual assets located in:
+      src/mainview/assets/
+      icon.iconset/
+
+The GPL-3.0 license applies exclusively to the source code.
