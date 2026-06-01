@@ -12,7 +12,7 @@ source_Gekkins.zip
 └── gekkins-app/
 ```
 
-`Gekkins.pdf` — Documentación técnica completa del proyecto.
+`documentacion_guillermo_alvarez.pdf` — Documentación técnica completa del proyecto.
 
 `gekkins-front/` — Frontend web de la plataforma pública. SPA en React con build propio basado en Bun, desplegada en Cloudflare Pages en `gekkins.com`.
 
